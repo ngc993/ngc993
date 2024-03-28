@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm **👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌱 Continuous Learner**
+I'm **🧑🏻‍💻 Software Developer | 👌🏼 Problem Solver | 🦾 Automation Enthusiast | 🌱 Continuous Learner**
 
 - Over a decade of experience in software development
 - Specialized in crafting solutions for enterprise environments
